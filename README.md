@@ -1,6 +1,8 @@
-# PixelForest
+# Carbonated
 
-### Dotfiles for my spring 2023 everforest rice with DKwm
+### Dotfiles for my summer 2024 Oxocarbon rice with DKwm
+![nekofetch](https://github.com/user-attachments/assets/9b6dc5a9-82e2-4cb2-ace8-5b6a51f56678)
+
 
 Please leave a star if you like them
 
@@ -45,4 +47,6 @@ make [<component>]
 |eww|Bar and widgets|
 
 ## Showcase
+![rofi](https://github.com/user-attachments/assets/31091ff0-ad68-4f66-8666-b159847d0547)
+![image](https://github.com/user-attachments/assets/51bf5147-42fa-4329-a07d-216f4fe608cb)
 
